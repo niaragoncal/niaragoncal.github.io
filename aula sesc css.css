@@ -1,0 +1,45 @@
+﻿s
+body{
+    background-image: url(sol.jpg);
+    background-size: 1300px 950px;
+    font-family: fantasy; 
+    
+}
+head {
+margin: 20px;
+}
+
+h1 {
+   text-align: center;
+   border-bottom-width: 10px;
+   border-style: solid;
+   background-color: bisque;
+   font-size: 45px;
+
+}
+h2 {
+font-size: 45px;
+background-color: bisque;
+background-size: 48px;
+}
+ul {
+    line-height: 10px; 
+    padding: 0 30px;
+    text-indent: 50px;
+    font-size: 30px;
+    }
+li {
+    line-height: 10px; 
+    padding: 0 30px;
+    text-indent: 5px;
+    line-height: 150%;
+    font-size: 30px; 
+    }
+    .caixa{
+        width: 400px;
+        background-color: bisque;
+        margin: 0 auto;
+        border-style: dashed;
+        padding-top: 10px;
+
+    }
